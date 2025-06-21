@@ -65,7 +65,7 @@ Este site utiliza imagens de autoria própria tiradas com o celular e imagens ob
 
 **Textos:**
 
-Todos os textos são de autoria própria ou gerados com o auxílio de inteligência artificial.
+Este site utiliza textos de autoria própria e gerados com o auxílio de inteligência artificial.
 
 ---
 

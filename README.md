@@ -10,7 +10,7 @@ A proposta valoriza a interdependência entre campo e cidade e destaca práticas
 ---
 ## Instruções de Uso
 
-- Faça download ou clone o repositório OU entre no link (add link)
+- Faça download ou clone o repositório OU entre no link https://vitinh0o.github.io/Agrinho/
 - Abra o arquivo `index.html` em qualquer navegador moderno para visualizar o site (Obs: verifique que o seu navegador esteja atualizado, pois alguns recursos não porderam funcionar)
 ---
 
@@ -61,7 +61,7 @@ O projeto busca:
 
 **Imagens:**
 
-Este site utiliza imagens de autoria própria e imagens obtidas do banco de imagens gratuito [Pixabay](https://pixabay.com/pt/), que disponibiliza conteúdo livre de direitos autorais.
+Este site utiliza imagens de autoria própria tiradas com o celular e imagens obtidas do banco de imagens gratuito [Pixabay](https://pixabay.com/pt/), que disponibiliza conteúdo livre de direitos autorais.
 
 **Textos:**
 
